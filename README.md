@@ -40,7 +40,7 @@
 <img src="https://skillicons.dev/icons?i=react" title="React"/>
 <img src="https://skillicons.dev/icons?i=next" title="NextJS"/>
 <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS"/>
-<img src="https://skillicons.dev/icons?i=angular" title="Angular"/>
+<!-- <img src="https://skillicons.dev/icons?i=angular" title="Angular"/> -->
 <img src="https://skillicons.dev/icons?i=typescript" title="Typescript"/>
 <img src="https://skillicons.dev/icons?i=flask" title="Flask"/>
 <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS"/>
@@ -49,19 +49,19 @@
 <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
 <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
 <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu"/>
-<img src="https://skillicons.dev/icons?i=go" title="Go"/>
+<!-- <img src="https://skillicons.dev/icons?i=go" title="Go"/> -->
 <img src="https://skillicons.dev/icons?i=bash" title="Bash"/>
-<img src="https://skillicons.dev/icons?i=haskell" title="Haskell"/>
-<img src="https://skillicons.dev/icons?i=scala" title="Scala"/>
-<img src="https://skillicons.dev/icons?i=solidity" title="Solidity"/>
+<!-- <img src="https://skillicons.dev/icons?i=haskell" title="Haskell"/> -->
+<!-- <img src="https://skillicons.dev/icons?i=scala" title="Scala"/> -->
+<!-- <img src="https://skillicons.dev/icons?i=solidity" title="Solidity"/> -->
 <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
 <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes"/>
-<img src="https://skillicons.dev/icons?i=nginx" title="NGINX"/>
+<!-- <img src="https://skillicons.dev/icons?i=nginx" title="NGINX"/> -->
 <img src="https://skillicons.dev/icons?i=git" title="Git"/>
 <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions"/>
-<img src="https://skillicons.dev/icons?i=redis" title="Redis"/>
-<img src="https://skillicons.dev/icons?i=grafana" title="Grafana"/>
-<img src="https://skillicons.dev/icons?i=ansible" title="Ansible"/>
+<!-- <img src="https://skillicons.dev/icons?i=redis" title="Redis"/> -->
+<!-- <img src="https://skillicons.dev/icons?i=grafana" title="Grafana"/> -->
+<!-- <img src="https://skillicons.dev/icons?i=ansible" title="Ansible"/> -->
 </div>
 
 ---
