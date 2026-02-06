@@ -8,7 +8,6 @@
  🧑‍💻 I engineer impactful digital solutions.<br>
  💼 Passionate Software Developer focused on solving real-world problems.<br>
  🌐 Into Full-Stack Web Development & Software Engineering. <br>
- 🔗 Portfolio: <a href="#">Coming Soon</a> <br><br>
  Programmer 💻 | Developer 🌐 | Creator 🚀
 </div>
 
@@ -76,7 +75,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats:</h3>
+<!-- <h3 align="center">📊 GitHub Stats:</h3>
 
 <table align="center">
   <tr>
@@ -96,7 +95,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejus2004&theme=radical&hide_border=false" />
 </div>
 
----
+--- -->
 
 <h3 align="center">🐍 Contribution Snake</h3>
 <p align="center">
