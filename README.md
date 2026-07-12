@@ -8,7 +8,7 @@
  🧑‍💻 I engineer impactful digital solutions.<br>
  💼 Passionate Software Developer focused on solving real-world problems.<br>
  🌐 Into Full-Stack Web Development & Software Engineering. <br>
- Programmer 💻 | Developer 🌐 | Creator 🚀
+ Programmer 💻 | Developer 🌐
 </div>
 
 <br>
